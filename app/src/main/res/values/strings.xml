@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">game</string>
+    <string name="pirates">pirates</string>
+    <string name="ninjas">ninjas</string>
+    <string name="cowboys">cowboys</string>
+    <string name="warlocks">warlocks</string>
+    <string name="which_of_these_were_from_japan">Which of these were from Japan?</string>
+    <string name="which_is_in_nyc">Which is in NYC?</string>
+    <string name="game_over">Game Over!</string>
+</resources>
